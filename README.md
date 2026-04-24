@@ -6,8 +6,6 @@
 
 A React Native mobile marketplace application that bridges the gap between local agricultural vendors and buyers, promoting sustainable local food systems.
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Architecture](#-architecture) • [Team](#-team)
-
 </div>
 
 ---
