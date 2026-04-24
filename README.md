@@ -1,4 +1,4 @@
-# AgriLocal Mobile Market
+# AgriLocal Market
 
 <div align="center">
 
